@@ -1,0 +1,9 @@
+Since this project requires me to analyze and generate reports from the log file, it is imperative that I stay organized. In order to do so I am planning on creating dictionaries you keep certain elements together/separate. I will need to run some loops to determine if a user has logged in/logged out and how many times they have done so. Logging the users' information can be done through lists and/or dictionaries.
+
+Breakdown for each area - what code should be included in each
+
+1. Suspicious activities
+defining functions and conditional statements (check if any users  log into any system more than 5 times in a day; if a user logs into any system once between 12 am to 5 pm), return (reports the total number of suspicious activities)
+
+2. Irresponsible Behavior
+create list or dictionary of employees
