@@ -20,7 +20,7 @@ Report a list of all the domains and the number of users within each domain.
 
 # Updates
 - My first plans and flowcharts for writing the code were way to simplistic and that was due to me not fully understanding what I needed to do and how to do it properly. I went back and reviewed class recordings and exercises and I used other resources like the Python for Everybody text and stack overflow.
-- I made changes and created new flowcharts (see flowcharts folder)
+- I made changes to and created new flowcharts (see flowcharts folder). My first flowcharts were too simple and didn't provide enough information to help me build the code, it more so gave me a vague outline. For each insight I added specific lines of code to help me organize the flow of the task.
 - My first code for all four reports is very confusing and has too many loops and conditional statements that are not needed for the code to run or for the reports to generate properly. I need to find a different way to write the code without it getting too long and confusing.
 - I was able to write a simpler code that I was able to understand. I encountered fewer errors once I shortened my codes and it made more sense to me.
 - To generate the report files I started out by writing the create_file code for each insight which was tedious and made the overall code longer. I made the decision to have only one write code that would work in generating reports for suspicious activities, irresponsible behaviors, and system glitches. Then, at the end I could generate all of the reports at once in a separate cell.
