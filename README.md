@@ -13,3 +13,14 @@ Report the total count of suspicious activities. Suspicious behavior is marked i
 Report the total count of irresponsible behaviors. Irresponsible behavior is marked if a user does not logout after logging in, this is checked by seeing if a user has more logins than logouts.
 
 3. System Glitch
+Report the total count of system glitches. A system glitch is marked when the sytem records more logouts than logins for any user. 
+
+# Updates
+- My first plans for writing the code were way to simplistic and that was due to me not fully understanding what I needed to do and how to actually to it properly. i had to go back and review class recordings and use other resources like the Python for Everybody text and stack overflow.
+- My first code for all four reports is very confusing and had too many loops and conditional statements that were not needed for the code to run or for the reports to generate properly. I need to find a different way to write the code without it getting too long and confusing.
+- I was able to write a simpler 
+   
+# Errors
+1. 
+2. I couldnt get the domain_count file to write at first, which I then realized it was because the domain count required its own separate write file code. Even then when I wrote the code for the domain file, it wouldn't generate the file with the correct format. Since no error message was given I had a hard time figuring out what I was missing. After reviewing it many times, I realized I needed to add "len" after "str" for the domain_dict. 
+  
